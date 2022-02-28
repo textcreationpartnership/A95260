@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true relation of the Queenes departure from Falmouth into the Brest in the west of France. After whom our Lord Admirall sent all his ships to overtake her, who made above a hundred shot at the ship, especially our three ships called the Vice Admirall, the Warwicke Frigot, and the Paramour, but she having a galley of sixteen oares, it is thought that all the ships in the world could not overtake her. Representing also, how that a ship called the Golden Sun, belonging to the King of Denmarke, was taken by the Lord Admirall, and sent into Portesmouth, to attend the pleasure of the Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95260</idno>
+            <idno type="STC">Wing T3030</idno>
+            <idno type="STC">Thomason E2_29</idno>
+            <idno type="STC">ESTC R2602</idno>
+            <idno type="EEBO-CITATION">99872109</idno>
+            <idno type="PROQUEST">99872109</idno>
+            <idno type="VID">154666</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154666)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E2[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true relation of the Queenes departure from Falmouth into the Brest in the west of France. After whom our Lord Admirall sent all his ships to overtake her, who made above a hundred shot at the ship, especially our three ships called the Vice Admirall, the Warwicke Frigot, and the Paramour, but she having a galley of sixteen oares, it is thought that all the ships in the world could not overtake her. Representing also, how that a ship called the Golden Sun, belonging to the King of Denmarke, was taken by the Lord Admirall, and sent into Portesmouth, to attend the pleasure of the Parliament.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbancke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 22. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henrietta Maria, --  Queen, consort of Charles I, King of England, 1609-1669 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154666:1"/>
+            <pb facs="tcp:154666:1" rendition="simple:additions"/>
+            <p>The true RELATION Of the QVEENES DEPARIVRE from FALMOVTH into the BREST in the weſt of FRANCE.</p>
+            <p>After whom our Lord Admirall ſent all his Ships to overtake her, who made above a hundred ſhot at the Ship, eſpecially our three Ships called the <hi>Vice Admirall,</hi> the <hi>Warwicke</hi> Frigor, and the <hi>Para<g ref="char:EOLhyphen"/>mour,</hi> but ſhe having a Galley of ſixteen Oares, it is thought that all the Ships in the world could not overtake her.</p>
+            <p>
+               <hi>Repreſenting alſo,</hi> How that a Ship called the Golden SUN, belonging to the King of <hi>Denmarke,</hi> was taken by the Lord Admirall, and ſent into <hi>Porteſmouth,</hi> to attend the plea<g ref="char:EOLhyphen"/>ſure of the Parliament.</p>
+            <p>LONDON, Printed for MATHEW WALBANCKE, July 22, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154666:2"/>
+            <pb facs="tcp:154666:2"/>
+            <head>A true Relation of the Queenes departure from <hi>Falmouth,</hi> to the <hi>Breſt</hi> in the Weſt of <hi>France.</hi>
+            </head>
+            <p>THe Forces of the Parliament by Sea have done their utmoſt endeavours to maintain the cauſe, which by ſo ſolemne a Covenant they have profeſſed: What my Lord Admirall performed at ſea in the reliefe of LYME is already expreſſed, and what untill this time he hath done ſince the great ſhip called the JAMES lay at anchor before TORBAY, is ſufficiently de<g ref="char:EOLhyphen"/>clared by former Pens. We ſhall at this time but onely point unto you what miſtakes by miſintelli<g ref="char:EOLhyphen"/>gence have growne upon our diſ<g ref="char:EOLhyphen"/>courſes
+<pb facs="tcp:154666:3"/>and belief, and that whiles for many dayes we have believed that the Queene was removed to Exceſter, vvee muſt novv aſſure you, that ſhe vvas all that vvhile in Cornevvall, untill on Sunday, being July 14. ſhe tooke from Fal<g ref="char:EOLhyphen"/>mouth her ſhipping into France.</p>
+            <p>But the deſigne of her expediti<g ref="char:EOLhyphen"/>on could not bee carried vvith ſo much ſecrecy, but it vvas diſcove<g ref="char:EOLhyphen"/>red to the Lord Admirall, vvho on the firſt information of it, knovving of vvhat conſequence vvas her departure into France, did command all the ſhips then in the Weſterne parts to overtake her: they could not (at the firſt command) come ſo eaſily in as vvas deſired, but having knovvledge of vvhat importance vvas the buſi<g ref="char:EOLhyphen"/>neſſe,
+<pb facs="tcp:154666:3"/>vvith Wind and ſayle they made haſte to overtake her.</p>
+            <p>And indeed had the vvind bin more propitious to them, they had gone neer to have poſſeſſed them<g ref="char:EOLhyphen"/>ſelves of this mighty prize, I vvill acquaint you vvord for vvord vvith vvhat, in a Letter ſent from a ſpeciall Friend, I ſend you here Related.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:154666:4"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON Sunday was ſevennight, all the Ships my Lord had with him were ſent to plye about <hi>Falmouth,</hi> the place where ſhe imbarqued, and till Sunday laſt had no tydings of the Enemies comming forth; when in the morning ſome of the Ships in har<g ref="char:EOLhyphen"/>bour were ſeene to ſet ſayle, our Vice-Admirall betooke himſelfe to a readineſſe. The firſt of the Enemies was a Flemmiſh man of Warre, who comming within ſhot the Vice-Admirall gave him twelve Guns in his quarters, but he without any replye, got to wind<g ref="char:EOLhyphen"/>ward, and then made out all his
+<pb facs="tcp:154666:4"/>ſayle, the reſt of the Ships being ten in number, followed him, and getting the advantage of the wind, avoided all annoyance from our Ships; three whereof lay ſo farre off to Sea, as they could not come in to doe ſervice, till the Vice-Ad<g ref="char:EOLhyphen"/>mirall gave chaſe: at laſt a nimble Frigot of ours got into play, and m de the Enemy uſe their Ord<g ref="char:EOLhyphen"/>nance for their owne ſafety, this interlude of ſhot continued as long as our Ships could tacke with the Enemies, but they comming out tallowed and traind for ſo impor<g ref="char:EOLhyphen"/>tant a ſervice, had a maine advan<g ref="char:EOLhyphen"/>tage in flight: however they were chaſed to the very borders of <hi>France,</hi> where they tooke in at <hi>Brest,</hi> and there landed her Maje<g ref="char:EOLhyphen"/>ſtie. Her Majeſty fearing ſuch a
+<pb facs="tcp:154666:5"/>ſtorme, had provided for her ſecu<g ref="char:EOLhyphen"/>rer eſcape (in caſe thoſe other veſ<g ref="char:EOLhyphen"/>ſels ſhould have beene worſted) a Galley of 16 Oares, which the beſt veſſell in the world could never have coapt with, ſo as now we muſt only ſalve all with patience, yet if my Lord had bin furniſhed with other ſhips, we ſhould not have doubted but to have given a good account of this buſineſſe. No other newes I can for the preſent acquaint you vvith.</p>
+            <p>My Lord Admirall hath alſo taken a Ship of the King of <hi>Denmarks</hi> of great value, cal'd the Golden <hi>Sun,</hi> carried it into <hi>Portſmouth,</hi> where it is to remaine till the Parliaments pleaſure be further knowne.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed according to Order.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
